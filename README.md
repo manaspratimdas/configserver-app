@@ -1,6 +1,8 @@
-Config Server
+**Config Server**
 
-Prompt
+External Configuration: Using Spring Cloud Config Server and library, configuration across multiple services can be managed centrally. This is particularly useful in a microservices environment where there are many services to manage.
+
+**Prompt**
 1. As a Java developer using Java 11, I am in need of detailed instructions to set up a config server for my Spring Boot application. Please provide the following:
 The necessary Maven dependencies to be imported into the application.
 Any configuration files that need to be created or existing ones that require updates, given that I am using an application.properties file for configuration.
